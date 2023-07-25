@@ -23,6 +23,8 @@
 
 Шаг 4. Зафиксировать изменения в репозитории с сообщением **git commit -m <file>**
 
+# Images
+
 ### [Seminar 2 info](Seminar2.md)
 
 ## Merging strategies
