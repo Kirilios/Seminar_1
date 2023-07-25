@@ -8,4 +8,9 @@
 
 ### Merging
 
+* *git merge <branch name>* - слияние ткущей ветки с branch name
+
+* *git branch -d <branch name>* - удалить ветку branch name
+
+
 ### Conflicts when merging
