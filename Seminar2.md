@@ -1,4 +1,4 @@
-# Seminar number 2
+# Seminar number 2. Work with branches
 
 ### Branch creating
 
