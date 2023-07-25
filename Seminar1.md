@@ -12,13 +12,13 @@
 
 # Order
 
-Шаг 1. Внести изменения
+Шаг 1. jdfghjsdf
 
-Шаг 2. Сохранить изменения **ctrl+s**
+Шаг 2. Сfdgdfg**ctrl+s**
 
-Шаг 3. Добавить файл к отслеживанию **git add <file>**
+Шаг 3. Дdfgdfgотслеживанию **git add <file>**
 
-Шаг 4. Зафиксировать изменения в репозитории с сообщением **git commit -m <file>**
+Шаг 4. Зdfgdfg в репозитории с сообщением **git commit -m <file>**
 
 ### [Seminar 2 info](Seminar2.md)
 
