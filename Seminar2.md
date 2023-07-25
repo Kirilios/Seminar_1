@@ -1,6 +1,8 @@
 # Seminar number 2
 
-### Branch creation
+### Branch creating
+
+git branch name - создать ветку
 
 ### Merging
 
