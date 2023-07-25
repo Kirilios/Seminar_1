@@ -14,3 +14,5 @@
 
 
 ### Conflicts when merging
+
+Строка с конфликтом
