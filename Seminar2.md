@@ -2,7 +2,7 @@
 
 ### Branch creating
 
-git branch name - создать ветку
+git branch <name> - создать ветку в git
 
 ### Merging
 
