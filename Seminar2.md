@@ -8,4 +8,6 @@
 
 ### Merging
 
+* *git merge <branch name>* - слияние ткущей ветки с branch name
+
 ### Conflicts when merging
